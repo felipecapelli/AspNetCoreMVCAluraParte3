@@ -1,0 +1,5 @@
+Utilizando o SQLite para armazenar os dados do Entity:
+Microsoft.EntityFrameworkCore.Sqlite
+
+Criar a migração(Add-Migration "nomeQueEuQuiserDarPraMigracao" -Context ClasseDeContextoDoIdentity):
+Add-Migration "Identity" -Context AppIdentityContext
