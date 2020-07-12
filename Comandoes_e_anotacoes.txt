@@ -3,3 +3,8 @@ Microsoft.EntityFrameworkCore.Sqlite
 
 Criar a migração(Add-Migration "nomeQueEuQuiserDarPraMigracao" -Context ClasseDeContextoDoIdentity):
 Add-Migration "Identity" -Context AppIdentityContext
+
+Atualizar a migração no Banco de Dados:
+Update-Database -Context  AppIdentityContext
+
+Atalho para ver a pilha de execução: Ctrl Alt c

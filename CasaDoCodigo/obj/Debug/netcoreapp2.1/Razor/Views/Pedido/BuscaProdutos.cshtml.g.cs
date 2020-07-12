@@ -77,12 +77,12 @@ using CasaDoCodigo.Models.ViewModels;
             WriteLiteral("\n<div class=\"container\">\n    <div class=\"row\">\n        <div class=\"col-md-4\">\n            <h2>Buscar produtos</h2>\n            <div id=\"custom-search-input\">\n                <div class=\"input-group col-md-12\">\n                    ");
             EndContext();
             BeginContext(312, 555, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5e549a43b9a444328087dc92c387995e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fd9b6ccdbeba40899f4aeaa0f1982d42", async() => {
                 BeginContext(345, 25, true);
                 WriteLiteral("\n                        ");
                 EndContext();
                 BeginContext(370, 190, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "35b65cb0e63a45bb85475d1daeff838c", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "572b12c3df7c42c78d27cde88144665f", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -275,7 +275,7 @@ WriteAttributeValue("", 2374, produto.Codigo, 2374, 17, false);
             WriteLiteral("</strong></h4></div>\n                                        <div class=\"text-center\">\n                                            ");
             EndContext();
             BeginContext(2812, 191, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "469c211f914d4aecb54818af9c880e6c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "523f0fb612784e95affa2fe448929563", async() => {
                 BeginContext(2990, 9, true);
                 WriteLiteral("Adicionar");
                 EndContext();
