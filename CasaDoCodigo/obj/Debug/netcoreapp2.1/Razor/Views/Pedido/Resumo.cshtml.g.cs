@@ -63,7 +63,7 @@ using CasaDoCodigo.Models.ViewModels;
             WriteLiteral("<h3>Resumo do Pedido</h3>\n\n<div class=\"row\">\n    <div class=\"col-md-12\">\n        <div class=\"pull-right\">\n            ");
             EndContext();
             BeginContext(134, 106, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f63528ce27249428a241a78844d4ee1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "84048ed58002440e9d6dc238d9dbdcab", async() => {
                 BeginContext(188, 48, true);
                 WriteLiteral("\n                Voltar ao Catálogo\n            ");
                 EndContext();
@@ -238,7 +238,7 @@ using CasaDoCodigo.Models.ViewModels;
             WriteLiteral("\n    </div>\n</div>\n\n<div class=\"row\">\n    <div class=\"col-md-12\">\n        <div class=\"pull-right\">\n            ");
             EndContext();
             BeginContext(1817, 106, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b8d308a0b3a144c185336454c63c7ef9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d3d3c0c0abc646cdb564127d9edd9561", async() => {
                 BeginContext(1871, 48, true);
                 WriteLiteral("\n                Voltar ao Catálogo\n            ");
                 EndContext();
