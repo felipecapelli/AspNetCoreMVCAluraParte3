@@ -1,0 +1,29 @@
+MICROSOFT--------------------------------
+(ENDEREÇO CONFIGURADO: http://localhost:49910/signin-microsoft )
+
+Nome (eu criei no inicio nome+dataAtual):
+CasaDoCodigo_15072020
+
+Id do aplicativo(pega após criar o aplicativo):
+fa3ebf1a-7eb9-458a-87e5-c8b16d4a5eab
+
+Senha(pega depois na aba certificados e segredos - segredos do cliente, novo segredo do cliente):
+FPy~SPgZ00nvEf-r_JJV_9If7_2OBjQ--_
+
+GOOGLE--------------------------------
+(ENDEREÇO CONFIGURADO: http://localhost:49910/signin-google )
+
+Nome (eu criei no inicio nome+dataAtual):
+CasaDoCodigo15072020
+
+Id do aplicativo(pega após criar o aplicativo):
+74772044790-bm6s0p1dvoqbm4ufourh6rcokjtnalf8.apps.googleusercontent.com
+
+Senha(pega depois na aba certificados e segredos - segredos do cliente, novo segredo do cliente):
+
+
+--------------------------------------------------------IMPORTANTE-------------------------
+Obs: O usuário será cadastrado nas tabelas:
+AspNetUsers (essa tabala armazena todos os usuários)
+AspNetUserLogins (essa so fica quem usou login externo)
+
